@@ -33,5 +33,11 @@ public class Principal {
         calculadora.inclui(lost);
         calculadora.inclui(topGun);
         System.out.println("Tempo necessário: " + calculadora.getTempoTotal());
+
+        System.out.println();
+
+        System.out.println("Série: " + topGun.getNome());
+        FiltroRecomendacao filtro = new FiltroRecomendacao();
+        filtro.filtra(topGun);
     }
 }
