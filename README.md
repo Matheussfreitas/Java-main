@@ -1,6 +1,6 @@
 # Projeto de Estudos Java
 
-Este repositório contém exemplos e projetos utilizados para estudos de Java.
+Este repositório contém exemplos e projetos utilizados para estudos da linguagem de programação Java.
 
 ## Estrutura do Repositório
 
