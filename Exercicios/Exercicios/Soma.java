@@ -1,6 +1,8 @@
+package Exercicios;
+
 import java.util.Scanner;
 
-public class soma {
+public class Soma {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

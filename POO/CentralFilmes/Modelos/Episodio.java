@@ -1,6 +1,8 @@
-package POO.Filme;
+package poo.CentralFilmes.Modelos;
 
-public class Episodio implements Classificavel{
+import poo.CentralFilmes.Calculos.Classificavel;
+
+public class Episodio implements Classificavel {
     private String nome;
     private int numero;
     private Serie serie;

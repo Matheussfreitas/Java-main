@@ -1,4 +1,6 @@
-package POO.Filme;
+package poo.CentralFilmes.Calculos;
+
+import poo.CentralFilmes.Modelos.Titulo;
 
 public class CalculadoraDeTempo {
     private int tempoTotal = 0;
