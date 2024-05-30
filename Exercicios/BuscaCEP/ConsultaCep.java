@@ -1,7 +1,5 @@
 package BuscaCEP;
 
-import com.google.gson.Gson;
-
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;

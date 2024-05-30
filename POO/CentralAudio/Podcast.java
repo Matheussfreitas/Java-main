@@ -1,4 +1,4 @@
-package poo.CentralAudio;
+package POO.CentralAudio;
 
 public class Podcast extends Audio {
     private String apresentador;

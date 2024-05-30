@@ -1,4 +1,4 @@
-package poo.CentralAudio;
+package POO.CentralAudio;
 
 public class Audio {
     private String titulo;
